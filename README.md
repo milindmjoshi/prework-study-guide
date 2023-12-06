@@ -2,9 +2,12 @@
 
 ## Description
 
-Web Guide with notes for coding bootcamp that covers HTML, CSS, Git, and JavaScript. 
-
-
+Web Guide with notes for coding bootcamp that covers **HTML, CSS, Git, and JavaScript**. 
+- HTML - HyperText Markup Language
+- CSS - Cascading Style Sheets
+- Git - Distributed Version Control System
+- JavaScript - Java like Script Language
+  
 ## Installation
 
 N/A
