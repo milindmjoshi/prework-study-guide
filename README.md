@@ -14,7 +14,7 @@ N/A
 
 ## Usage
 
-Each section on the page contains notes on HTML, CSS, Git and JavaScript. Read through the notes to refresh your knowledge in these areas. 
+1. Each section on the page contains notes on HTML, CSS, Git and JavaScript. Read through the notes to refresh your knowledge in these areas. 
 
 ## Credits
 
@@ -22,5 +22,6 @@ N/A
 
 ## License
 
-Please refer to the license in the Repo
+Please refer to this license  
+[MIT License](https://opensource.org/license/mit/)
 
